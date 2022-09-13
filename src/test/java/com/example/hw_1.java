@@ -1,4 +1,17 @@
 package com.example;
 
-public class hw_1 {
+import org.junit.jupiter.api.Test;
+
+public class Homework {
+    @Test
+    void name1() {
+    }
+
+    @Test
+    void name2() {
+    }
+
+    @Test
+    void name3() {
+    }
 }
